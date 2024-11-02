@@ -8,7 +8,7 @@ public class Homework_1 {
         
    System.out.println("NAME               YEARLY SALARY");
         System.out.println("----                    -------------");
-        System.out.println(Em1.getfirstName() + " " + Em1.getLastName() + "         $" + Em1.getYearlySalary());
+        System.out.println(Em1.getfirstName() + "  " + Em1.getLastName() + "         $" + Em1.getYearlySalary());
         System.out.println(Em2.getfirstName() + " " + Em2.getLastName() + "         $" + Em2.getYearlySalary());
 
     
